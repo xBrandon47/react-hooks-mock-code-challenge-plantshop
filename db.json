@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Hi ",
+      "image": "http://localhost:3000/images/pilea.jpg",
+      "price": 0.47,
+      "id": 8
+    },
+    {
+      "name": "Vera",
+      "image": "http://localhost:3000/images/zz-plant.jpg",
+      "price": 46.04,
+      "id": 9
+    },
+    {
+      "name": "Vera",
+      "image": "http://localhost:3000/images/zz-plant.jpg",
+      "price": 46.04,
+      "id": 10
     }
   ]
 }
